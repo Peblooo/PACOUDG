@@ -37,7 +37,8 @@ PACOUDG/
 | **HTML5** | Estructura base de la aplicación web |
 | **CSS3** | Diseño visual, estilo institucional, transiciones y animaciones |
 | **JavaScript (ES6)** | Lógica funcional, validaciones, simulación de almacenamiento local |
-| **LocalStorage API** | Persistencia temporal de datos (sin base de datos real) |
+| **LocalStorage API** | Persistencia temporal de datos (sin base de datos real al ser un prototipo) |
+| **React** | Utilización de componentes para la interfaz de usuario |
 
 ---
 
@@ -55,7 +56,7 @@ El sistema está dividido en tres módulos principales:
 
 - Navegador moderno (Google Chrome, Firefox, Edge)
 - Conexión a internet (solo para visualización del repositorio)
-- No requiere instalación ni base de datos
+- No requiere instalación ni base de datos (por el momento)
 
 ---
 
@@ -73,7 +74,7 @@ El sistema está dividido en tres módulos principales:
 
 | Inicio | Solicitud | Perfil |
 |:--:|:--:|:--:|
-| ![Inicio](imagenes/inicio.png) | ![Solicitud](imagenes/solicitud.png) | ![Perfil](imagenes/perfil.png) |
+| ![Inicio](imgs/inicio.png) | ![Solicitud](imgs/formulario.png) | ![Perfil](imgs/perfil.png) |
 
 ---
 
@@ -93,12 +94,3 @@ Ingeniería en Computación — 8° semestre
 Este proyecto es de **uso académico** y se distribuye bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 > Proyecto desarrollado como parte del **Módulo de Integración de Saberes — Proyecto Modular**, Universidad de Guadalajara, 2025.
-
----
-
-## 🌐 Repositorio oficial
-
-🔗 [https://github.com/PACOUDG/plataforma](https://github.com/PACOUDG/plataforma)
-
----
-
