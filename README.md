@@ -82,7 +82,8 @@ El sistema está dividido en tres módulos principales:
 
 ## 🧾 Autores
 
-**Juan Pablo Guerrero Mercado**  Universidad de Guadalajara,
+**Juan Pablo Guerrero Mercado**  
+Universidad de Guadalajara,
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
 Ingeniería en Computación — 8° semestre  
 
