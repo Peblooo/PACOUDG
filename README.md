@@ -74,7 +74,7 @@ El sistema está dividido en tres módulos principales:
 
 | Inicio | Solicitud | Perfil |
 |:--:|:--:|:--:|
-| ![Inicio](imgs/inicio.png) | ![Solicitud](imgs/formulario.png) | ![Perfil](imgs/perfil.png) |
+| ![Inicio](PACOUDG/imgs/inicio.png) | ![Solicitud](PACOUDG/imgs/formulario.png) | ![Perfil](PACOUDG/imgs/perfil.png) |
 
 ---
 
