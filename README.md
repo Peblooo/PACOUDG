@@ -101,7 +101,7 @@ Universidad de Guadalajara
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
 Ingeniería en Computación — 8° semestre  
 
-📧 *rodrigo.perez5333@alumnos.udg.mx*
+📧 *eder.acosta5649@alumnos.udg.mx*
 
 ---
 
