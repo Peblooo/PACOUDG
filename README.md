@@ -26,3 +26,79 @@ PACOUDG/
 ├── style.css # Estilos principales (paleta UdeG)
 ├── /imagenes # Carpeta para íconos, logos o gráficos
 └── README.md # Este archivo
+
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|-------------|--------------|
+| **HTML5** | Estructura base de la aplicación web |
+| **CSS3** | Diseño visual, estilo institucional, transiciones y animaciones |
+| **JavaScript (ES6)** | Lógica funcional, validaciones, simulación de almacenamiento local |
+| **LocalStorage API** | Persistencia temporal de datos (sin base de datos real) |
+
+---
+
+## 🧠 Arquitectura del sistema
+
+El sistema está dividido en tres módulos principales:
+
+1. **Inicio:** Presenta la descripción del proyecto, estadísticas y accesos directos.
+2. **Solicitud:** Formulario para registrar una solicitud de préstamo con validación.
+3. **Perfil:** Visualiza información del estudiante, historial y notificaciones.
+
+---
+
+## 📋 Requerimientos del sistema
+
+- Navegador moderno (Google Chrome, Firefox, Edge)
+- Conexión a internet (solo para visualización del repositorio)
+- No requiere instalación ni base de datos
+
+---
+
+## 🧪 Pruebas realizadas
+
+- ✅ Validación de formulario de solicitud  
+- ✅ Almacenamiento y recuperación de datos en `localStorage`  
+- ✅ Edición de perfil y visualización de historial  
+- ✅ Responsividad en distintos dispositivos  
+- ✅ Navegación fluida entre secciones  
+
+---
+
+## 📸 Capturas del sistema
+
+| Inicio | Solicitud | Perfil |
+|:--:|:--:|:--:|
+| ![Inicio](imagenes/inicio.png) | ![Solicitud](imagenes/solicitud.png) | ![Perfil](imagenes/perfil.png) |
+
+---
+
+## 🧾 Autor
+
+**Juan Pablo Guerrero Mercado**  
+Universidad de Guadalajara  
+Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
+Ingeniería en Computación — 8° semestre  
+
+📧 *juan.guerrero6154@alumnos.udg.mx*
+
+---
+
+## 📄 Licencia
+
+Este proyecto es de **uso académico** y se distribuye bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
+> Proyecto desarrollado como parte del **Módulo de Integración de Saberes — Proyecto Modular**, Universidad de Guadalajara, 2025.
+
+---
+
+## 🌐 Repositorio oficial
+
+🔗 [https://github.com/PACOUDG/plataforma](https://github.com/PACOUDG/plataforma)
+
+---
+
