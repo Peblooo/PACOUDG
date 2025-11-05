@@ -19,4 +19,10 @@ El proyecto busca **reducir la brecha tecnológica** dentro de la comunidad univ
 ---
 
 ## 🧩 Estructura del proyecto
-
+PACOUDG/
+│
+├── index.html # Página principal de la plataforma
+├── login.html # Página de inicio de sesión
+├── style.css # Estilos principales (paleta UdeG)
+├── /imagenes # Carpeta para íconos, logos o gráficos
+└── README.md # Este archivo
