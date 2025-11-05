@@ -4,6 +4,8 @@
 
 El proyecto busca **reducir la brecha tecnológica** dentro de la comunidad universitaria, promoviendo la igualdad de oportunidades y el acceso equitativo a recursos digitales.
 
+Aun esta en fase prototipo.
+
 ---
 
 ## 🚀 Características principales
@@ -86,6 +88,20 @@ Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)
 Ingeniería en Computación — 8° semestre  
 
 📧 *juan.guerrero6154@alumnos.udg.mx*
+
+**Rodrigo Perez Renteria**
+Universidad de Guadalajara
+Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
+Ingeniería en Computación — 8° semestre  
+
+📧 *rodrigo.perez5333@alumnos.udg.mx*
+
+**Eder Isaac Acosta Sevilla**
+Universidad de Guadalajara
+Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
+Ingeniería en Computación — 8° semestre  
+
+📧 *rodrigo.perez5333@alumnos.udg.mx*
 
 ---
 
