@@ -82,8 +82,7 @@ El sistema está dividido en tres módulos principales:
 
 ## 🧾 Autores
 
-**Juan Pablo Guerrero Mercado**  
-Universidad de Guadalajara  
+**Juan Pablo Guerrero Mercado**  Universidad de Guadalajara,
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
 Ingeniería en Computación — 8° semestre  
 
@@ -93,7 +92,7 @@ Ingeniería en Computación — 8° semestre
 
 **Rodrigo Perez Renteria**
 
-Universidad de Guadalajara
+Universidad de Guadalajara,
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
 Ingeniería en Computación — 8° semestre  
 
@@ -103,7 +102,7 @@ Ingeniería en Computación — 8° semestre
 
 **Eder Isaac Acosta Sevilla**
 
-Universidad de Guadalajara
+Universidad de Guadalajara,
 Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)  
 Ingeniería en Computación — 8° semestre  
 
