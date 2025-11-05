@@ -41,6 +41,7 @@ PACOUDG/
 | **JavaScript (ES6)** | Lógica funcional, validaciones, simulación de almacenamiento local |
 | **LocalStorage API** | Persistencia temporal de datos (sin base de datos real al ser un prototipo) |
 | **React** | Utilización de componentes para la interfaz de usuario |
+| **Django** | El encargado de conectar con la base de datos (en proceso) |
 
 ---
 
